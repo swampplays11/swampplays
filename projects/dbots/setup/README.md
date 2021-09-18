@@ -10,7 +10,6 @@ description: >-
 
 Deployment to Heroku can be done in a few clicks. Refer to the [.env setup](config.md) for an explanation of the different environment variables. This will deploy the actual [DBots API repo](https://github.com/dbots-co/api). You can change the URL to match your own.
 
-{% page-ref page="config.md" %}
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dbots-co/api)
 
