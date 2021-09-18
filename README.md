@@ -1,5 +1,5 @@
 ---
-description: >-
+description: >--
   Help with development on codea.live projects. Find help for Discord bots, 24/7
   hosting, Discord bot lists, and more.
 ---
