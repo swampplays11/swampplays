@@ -10,7 +10,7 @@ description: >-
 
 These docs support your development with codea.live projects. They range from Discord bot dashboard customization, to setting up a Discord bot list.
 
-![1PG \(top left\), DBots \(top right\), 6PG \(bottom left\), DBots \(bottom right\).](../.gitbook/assets/projects.png)
+<iframe width="560" height="315" src="https://raw.githubusercontent.com/swampplays11/swampplays/master/.gitbook/assets/projects.png" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Need tutorials for help?**
 
