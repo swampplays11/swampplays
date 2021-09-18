@@ -4,8 +4,6 @@ description: A guide to keep Rasberry Pi online 24/7.
 
 # 24/7 Hosting
 
-{% embed url="https://www.youtube.com/watch?v=FFGsDt0EMBE" %}
-
 ### Start on Startup
 
 #### With PM2
