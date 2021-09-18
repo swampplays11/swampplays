@@ -36,7 +36,7 @@ Here is an overview of projects that were made for Discord, from Discord bots to
 * **Bot**: TypeScript  
 * **Dashboard**: TypeScript and Angular
 
-{% embed url="https://github.com/3PG" caption="" %}
+{% embedurl="https://github.com/3PG" caption="" %}
 
 ### 6PG - Discord Bot Maker
 
@@ -47,9 +47,9 @@ Here is an overview of projects that were made for Discord, from Discord bots to
 * **API**: TypeScript  
 * **Website**: TypeScript and Angular
 
-{% embed url="https://github.com/theADAMJR/6PG" caption="6PG Bot + API Project" %}
+{% embedurl="https://github.com/theADAMJR/6PG" caption="6PG Bot + API Project" %}
 
-{% embed url="https://github.com/theADAMJR/6PG-Dashboard" caption="6PG Dashboard Project" %}
+{% embedurl="https://github.com/theADAMJR/6PG-Dashboard" caption="6PG Dashboard Project" %}
 
 ### DBots - Discord Bot List
 
@@ -71,7 +71,7 @@ Here is an overview of projects that were made for Discord, from Discord bots to
 * **API**: TypeScript  
 * **Website**: TypeScript and Angular
 
-{% embed url="https://github.com/dlist-xyz" caption="" %}
+{% embedurl="https://github.com/dlist-xyz" caption="" %}
 
 ## Other
 
@@ -81,5 +81,5 @@ Non-Discord API projects, from a Discord clone to other projects.
 
 ![DClone Guild Preview - 31/12/2020](../.gitbook/assets/image%20%2839%29.png)
 
-{% embed url="https://github.com/d-clone" caption="" %}
+{% embedurl="https://github.com/d-clone" caption="" %}
 
