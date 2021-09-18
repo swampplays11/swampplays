@@ -6,7 +6,7 @@ description: Practical challenges and solutions from the Raspberry Pi hosting co
 
 Here are some challenges from the Raspberry Pi hosting course. They are intended to be practical in the real world, and I personally some of the solutions with my PC.
 
-{% style="info" %}
+{% ="info" %}
 Doing is the most effective way of learning, and will help reinforce your knowledge and understanding.
 {% endhint %}
 
