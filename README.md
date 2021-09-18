@@ -1,5 +1,5 @@
 ---
-description: >--
+description: >-
   Help with development on codea.live projects. Find help for Discord bots, 24/7
   hosting, Discord bot lists, and more.
 ---
@@ -14,11 +14,8 @@ These docs support your development with codea.live projects. They range from Di
 
 ### **Need tutorials for help?**
 
-{% embed url="https://youtube.com/adamjr" caption="Some videos cover topics in this help guide." %}
+[adamjr youtube](https://youtube.com/adamjr)
 
 ### Still need extra help?
 
 Join the [ADAMJR Community](https://discord.com/invite/Qp2YtyP), for more support on codea.live projects.
-
-{% embed url="https://discord.com/invite/Qp2YtyP" caption="" %}
-
