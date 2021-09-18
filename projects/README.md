@@ -16,8 +16,6 @@ Here is an overview of projects that were made for Discord, from Discord bots to
 
 ![1PG Dashboard - 12/2020](../.gitbook/assets/image%20%282%29.png)
 
-{% page-ref page="1pg/" %}
-
 ### 2PG - Simple, powerful, Discord bot
 
 **Description**: Multipurpose Discord Bot with Dashboard  
@@ -28,8 +26,6 @@ Here is an overview of projects that were made for Discord, from Discord bots to
 * **Dashboard**: TypeScript and Angular
 
 ![2PG Dashboard - 18/01/2021](../.gitbook/assets/image%20%2810%29.png)
-
-{% page-ref page="2pg/" %}
 
 ### 3PG - Highly Customizable Discord Bot
 
@@ -65,8 +61,6 @@ Here is an overview of projects that were made for Discord, from Discord bots to
 * **Website**: TypeScript and Angular
 
 ![DBots Home Page - 18/01/2021](../.gitbook/assets/image%20%2837%29.png)
-
-{% page-ref page="dbots/" %}
 
 ### DList - Discord Server List
 
